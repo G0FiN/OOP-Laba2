@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7S1S2UBEinYq93HU+oA+DZ1dnTKh6V07lYZQiWipWNGbdwFoOwLHB1vx7x3s+O04l6cxv0wKGSReLDupFE5V/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vodpb\\source\\repos\\OPP-Laba2\\OPP-Laba2\\OPP-Laba2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vodpb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

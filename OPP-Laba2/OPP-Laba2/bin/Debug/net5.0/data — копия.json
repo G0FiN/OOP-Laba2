@@ -1,0 +1,55 @@
+[
+  {
+    "person": {
+      "name": "Vitaliy",
+      "surname": "Tkachov",
+      "birthday": "2003-07-13"
+    },
+    "degree": {
+      "bachelor": true,
+      "specialist": false,
+      "master": false
+    },
+    "exams": [
+      {
+        "subject": "Math",
+        "mark": 5,
+        "date": "2022-01-10"
+      },
+      {
+        "subject": "English",
+        "mark": 3,
+        "date": "2022-01-11"
+      }
+    ]
+  },
+  {
+    "person": {
+      "name": "Serhii",
+      "surname": "Stepanetc",
+      "birthday": "2003-03-16"
+    },
+    "degree": {
+      "bachelor": true,
+      "specialist": true,
+      "master": false
+    },
+    "exams": [
+      {
+        "subject": "PE",
+        "mark": 5,
+        "date": "2022-01-09"
+      },
+      {
+        "subject": "Ukrainian",
+        "mark": 3,
+        "date": "2022-01-12"
+      },
+      {
+        "subject": "Biology",
+        "mark": 5,
+        "date": "2022-01-24"
+      }
+    ]
+  }
+]

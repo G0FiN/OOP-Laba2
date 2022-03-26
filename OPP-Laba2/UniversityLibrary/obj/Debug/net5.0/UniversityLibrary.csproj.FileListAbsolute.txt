@@ -1,0 +1,12 @@
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\bin\Debug\net5.0\UniversityLibrary.deps.json
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\bin\Debug\net5.0\UniversityLibrary.dll
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\bin\Debug\net5.0\ref\UniversityLibrary.dll
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\bin\Debug\net5.0\UniversityLibrary.pdb
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\obj\Debug\net5.0\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\obj\Debug\net5.0\UniversityLibrary.AssemblyInfoInputs.cache
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\obj\Debug\net5.0\UniversityLibrary.AssemblyInfo.cs
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\obj\Debug\net5.0\UniversityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\obj\Debug\net5.0\UniversityLibrary.dll
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\obj\Debug\net5.0\ref\UniversityLibrary.dll
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\obj\Debug\net5.0\UniversityLibrary.pdb
+C:\Users\vodpb\source\repos\OPP-Laba2\UniversityLibrary\obj\Debug\net5.0\UniversityLibrary.csproj.AssemblyReference.cache
